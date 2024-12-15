@@ -1,0 +1,137 @@
+[
+  {
+    "folderName": "q-and-a/set12-1",
+    "modelResults": [
+      {
+        "matched": 0.1869318181818181,
+        "variance": 0.04080241773949712,
+        "model": "flash"
+      },
+      {
+        "matched": 0.23409090909090907,
+        "variance": 0.04428903470432972,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set12-2",
+    "modelResults": [
+      {
+        "matched": 0.18579545454545449,
+        "variance": 0.040380902070980475,
+        "model": "flash"
+      },
+      {
+        "matched": 0.21590909090909086,
+        "variance": 0.043345979824456024,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set12-3",
+    "modelResults": [
+      {
+        "matched": 0.16761363636363624,
+        "variance": 0.038848847531753807,
+        "model": "flash"
+      },
+      {
+        "matched": 0.2426136363636364,
+        "variance": 0.0449941169248963,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set25-1",
+    "modelResults": [
+      {
+        "matched": 0.2853333333333333,
+        "variance": 0.0491437799839523,
+        "model": "flash"
+      },
+      {
+        "matched": 0.23866666666666664,
+        "variance": 0.048643830258545864,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set25-2",
+    "modelResults": [
+      {
+        "matched": 0.2753333333333334,
+        "variance": 0.048253957811193515,
+        "model": "flash"
+      },
+      {
+        "matched": 0.22199999999999998,
+        "variance": 0.047511402140258216,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set25-3",
+    "modelResults": [
+      {
+        "matched": 0.2146666666666666,
+        "variance": 0.04645667037382492,
+        "model": "flash"
+      },
+      {
+        "matched": 0.24400000000000002,
+        "variance": 0.048935331476006844,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set50-1",
+    "modelResults": [
+      {
+        "matched": 0.15599999999999992,
+        "variance": 0.04987985565335969,
+        "model": "flash"
+      },
+      {
+        "matched": 0.21099999999999994,
+        "variance": 0.05694734409961539,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set50-2",
+    "modelResults": [
+      {
+        "matched": 0.2279999999999999,
+        "variance": 0.056426943918663534,
+        "model": "flash"
+      },
+      {
+        "matched": 0.1869999999999999,
+        "variance": 0.05413871073455665,
+        "model": "pro"
+      }
+    ]
+  },
+  {
+    "folderName": "q-and-a/set50-3",
+    "modelResults": [
+      {
+        "matched": 0.20499999999999993,
+        "variance": 0.055181518645285574,
+        "model": "flash"
+      },
+      {
+        "matched": 0.23199999999999996,
+        "variance": 0.058275209137333854,
+        "model": "pro"
+      }
+    ]
+  }
+]

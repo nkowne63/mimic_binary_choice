@@ -89,16 +89,18 @@ type InstructionsJson = (QuestionJson & {
   result: "A" | "B";
 })[];
 
-type AnswerJson = (QuestionJson & {
-  choice: "A" | "B";
-  confidence: "1" | "2" | "3";
-})[];
+export type AnswersJson = {
+  response: (QuestionJson & {
+    choice: "A" | "B";
+    confidence: "1" | "2" | "3";
+  })[];
+};
 
 export const predictAnswers = async (
   modelName: ModelName,
   instructions: InstructionsJson,
   questions: QuestionsJson
-): Promise<AnswerJson> => {
+): Promise<AnswersJson> => {
   const systemInstruction = systemInstructionTemplate(
     JSON.stringify(instructions, null, 2)
   );
